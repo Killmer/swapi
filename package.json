@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html -p 3000"
+    "start": "parcel src/index.html -p 3001"
   },
   "keywords": [],
   "author": "",
